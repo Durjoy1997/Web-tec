@@ -1,0 +1,1 @@
+{"firstName":"Md. Badrul Alam","lastName":"Durjoy","gender":"male","userName":"durjoy","password":"1234","present_address":"18\/1 Puran Dhaka","parmanent_address":"Paltan","phone":"01552492907","contact_email":"durjoy97@gmail.com","website_link":"https:\/\/www.aiub.edu\/","birthday":"1997-09-11","religion":"Muslim"}
